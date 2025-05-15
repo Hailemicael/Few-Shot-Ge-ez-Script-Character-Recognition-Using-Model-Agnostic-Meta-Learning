@@ -41,4 +41,4 @@ The MAML-based approach significantly outperforms traditional methods in few-sho
 - Scikit-learn
 
 ## Citation
-If you use this code for your research, please cite our work:
+If you use this code for your research, please cite our work.
